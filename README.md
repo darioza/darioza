@@ -19,7 +19,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daniel_arioza)](https://twitter.com/daniel_arioza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-arioza)](https://www.linkedin.com/in/daniel-arioza)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://instagram.com/daniel_arioza/)](https://www.linkedin.com/in/daniel-arioza](https://www.instagram.com/daniel_arioza/))
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/daniel_arioza/)](https://www.instagram.com/daniel_arioza/)
 
 https://darioza.github.io/linktree/index.html
 
