@@ -11,10 +11,15 @@
         
    Pai, gaucho, casado, cristão e gremista - não necessáriamente nessa ordem!
 
+
 🎓 Mestrando em Ciências da Computação - CyberSecurity - UFRGS
+
 🎓 Especialista em Governança de TI - UFRGS
+
 🎓 Especialista FullStack Development - PUCRS
+
 🎓 Especialista em Gerenciamento de Projetos
+
 🎓 Especialista em Sistemas de Telecomunicaçoes
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daniel_arioza)](https://twitter.com/daniel_arioza)
