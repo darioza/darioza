@@ -1,6 +1,6 @@
 # Daniel Arioza
  
-### Tecnologia e CyberSecurity 🔐
+### Tecnologia e CyberSecurity
 
    Mais de 12 anos de experiência trabalhando nos principais players 
    da Indústria de Tecnologiada Informação e Serviços.
