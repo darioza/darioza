@@ -12,7 +12,7 @@
    Pai, gaucho, casado, cristão e gremista - não necessáriamente nessa ordem!
 
 
-🎓 Mestrando em Ciências da Computação - CyberSecurity - UFRGS
+🎓 Mestre em Ciências da Computação - CyberSecurity - UFRGS
 
 🎓 Especialista em Governança de TI - UFRGS
 
